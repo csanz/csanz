@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @csanz
 - 👀 I’m interested in building
+- 🚀 I'm CEO and Founder of Skycatch
 - 🌱 I’m currently learning ML
 - 📫 How to reach me chrissanz@gmail.com
 
