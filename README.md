@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @csanz
 - 👀 I’m interested in building
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me chrissanz@gmail.com
 
 <!---
